@@ -24,6 +24,6 @@ This is a basic readme file.  It describes the project in the github repository 
 
 # links 
 * Wordpress [Markdown quick reference](https://en.support.wordpress.com/markdown-quick-reference/ "just the facts maam")
-* git ssh commands [to connect w/o passwords] (https://gist.github.com/developius/c81f021eb5c5916013dc "git ssh commands")
+* git ssh commands [to connect w/o passwords](https://gist.github.com/developius/c81f021eb5c5916013dc "git ssh commands")
 
 Test repository -- likely to last days.
